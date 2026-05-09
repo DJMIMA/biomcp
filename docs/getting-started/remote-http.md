@@ -86,5 +86,6 @@ HTTP `202 Accepted` (`terminate_on_close=False` in the demo client).
 ## Related docs
 
 - [Claude Desktop (stdio setup)](claude-desktop.md)
+- [Cloud Run deployment](cloud-run.md)
 - [MCP Server Reference](../reference/mcp-server.md)
 - [RUN.md](https://github.com/genomoncology/biomcp/blob/main/RUN.md)

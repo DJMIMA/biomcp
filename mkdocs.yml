@@ -14,6 +14,7 @@ nav:
       - First Query: getting-started/first-query.md
       - Claude Desktop: getting-started/claude-desktop.md
       - Remote HTTP Server: getting-started/remote-http.md
+      - Cloud Run: getting-started/cloud-run.md
       - API Keys: getting-started/api-keys.md
       - Skills: getting-started/skills.md
   - Concepts:

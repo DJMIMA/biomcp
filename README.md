@@ -92,7 +92,8 @@ uv run --script examples/streamable-http/streamable_http_client.py
 ```
 
 See [Remote HTTP Server](https://biomcp.org/getting-started/remote-http/) for
-the newcomer guide.
+the newcomer guide, or [Cloud Run](https://biomcp.org/getting-started/cloud-run/)
+for GitHub-triggered deployment with `Dockerfile` and `cloudbuild.yaml`.
 
 ### From source
 
